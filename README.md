@@ -5,5 +5,5 @@
 <p>Caso queira ajudar a melhorar, envie um Pull Request devolta com o arquivo com as mudanças/melhorias ❤️ 🍎<p>
 
 <p align="center">
-  <img width="750" height="1334" src="https://raw.githubusercontent.com/lscardinali/PontoConcrete-Shortcut/master/screenshot.png">
+  <img width="337" height="600" src="https://raw.githubusercontent.com/lscardinali/PontoConcrete-Shortcut/master/screenshot.png">
 </p>
